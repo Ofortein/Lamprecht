@@ -78,7 +78,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<i><br><br><br><br>Let's make your dreams reality</i>",
-          "text": "We make it our business to find the home<br>you love to live in.",
+          "text": "We make it our business to find the home you love to live in.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
           "_tags": [
             "Theme"
@@ -103,7 +103,7 @@
             "showText": true,
             "showButtons": false,
             "showArrow": true,
-            "contentAlign": "left",
+            "contentAlign": "center",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -118,7 +118,7 @@
             "overlayOpacity": 0.5
           },
           "title": "About us",
-          "text": "<br>\n<br>K&amp;L Property Group is a new, dynamic and professional estate agency that recently launched in the Western Cape, South Africa. We opened our “unashamedly ethical” doors for business on the 1st March 2017.\n<br>\n<br>What makes us unique is that we understand the needs of clients when it comes to buying- and selling property. For that reason, we decided to revolutionize our service offering by pro-actively giving clients what they want: a one-stop-shop for all their property needs. We acknowledge there is a gap in the industry, and we are aware that this gap is causing many frustrations to buyers and sellers alike. By closing this gap, we are committing to servicing all our clients’ needs to the fullest extent.&nbsp;<br>",
+          "text": "<br>\n<br>K&amp;L Property Group is a new, dynamic and professional estate agency that recently launched in the Western Cape, South Africa. We opened our “unashamedly ethical” doors for business on the 1st March 2017.\n<br>\n<br>What makes us unique is that we understand the needs of clients when it comes to buying- and selling property. For that reason, we decided to revolutionize our service offering by pro-actively giving clients what they want: a one-stop-shop for all their property needs. We acknowledge there is a gap in the industry, and we are aware that this gap is causing many frustrations to buyers and sellers alike. By closing this gap, we are committing to servicing all our clients’ needs to the fullest extent.&nbsp;<br><br><br>\n<br>Faried Karriem and Zea Lamprecht are the brains behind K&amp;L Properties. Our extensive real estate services include:\n<br>\n<br>    Residential: Sale by Auction or Private Treaty\n<br>    Commercial: Sale by Auction or Private Treaty\n<br>    Residential Rentals\n<br>    Commercial Rentals\n<br>    Property Bridging\n<br>    Bond Origination\n<br>\n<br>We also provide value-adding support services including:\n<br>\n<br>    Training to all clients (Sellers and Buyers)\n<br>    Compliance Inspections\n<br>\n<br>We promote collaboration between different agencies in order to serve the needs of all clients:\n<br>\n<br>    Other Estate Agencies are able to use our resources (website, service partners, etc.)\n<br>    Property workshops to share knowledge and discuss ideas to improve service delivery\n<br>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
           "_tags": [
             "Theme"
@@ -142,7 +142,7 @@
             "bgColor": "#fff"
           },
           "title": "SOLD PROPERTIES",
-          "meta": "<b>By Zea Lamprecht</b>",
+          "meta": "<b>By Zea Lamprecht</b><br><br>Although she officially joined the estate agent industry in 2013, Zea Lamprecht has more than twenty years’ experience in the property industry.  She is highly professional, has an impeccable work ethic, and goes the extra mile to keep clients happy.  Zea is a director for K&amp;L Property Group, a member of IEASA and is registered with the EAAB.<b><br></b>",
           "_tags": [
             "Theme"
           ],
@@ -211,7 +211,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Property Listing</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Properties Available<br>Properties on Auction</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">K&amp;L Property Group<br>Zea Lamprecht<br>Faried Kassiem</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Property Listing</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Properties Available<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">K&amp;L Property Group<br>Zea Lamprecht<br>Faried Kassiem</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -367,7 +367,7 @@
             "bgColor": "#fff"
           },
           "title": "SOLD PROPERTIES&nbsp;",
-          "meta": "<b>By Faried Karriem</b>",
+          "meta": "<b>By Faried Karriem</b><br><br>Faried Karriem has more than 15 years management experience in the IT sector. He joined the property industry in 2016, and prides himself in consistently being able to match clients with their dream home, and describes his new profession as being a vehicle that supports clients to move on to the next phase of their lives. Faried is a director for K&amp;L Property Group, a member of IEASA and is registered with the EAAB.<b><br></b>",
           "_tags": [
             "Theme"
           ],
